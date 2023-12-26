@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+    <string name="item_name">NAME</string>
+    <string name="time">Time:</string>
+    <string name="duration">Duration:</string>
+    <string name="total_cost">Total:</string>
+    <string name="delete_question">Are you sure you want to delete?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+
+    <string name="search">SEARCH ITEM</string>
+
+    <string name="button">click button</string>
+    <string name="dialogTitle">Delete File</string>
+    <string name="dialogMessage">Are you sure you want to delete habit</string>
+    <string name="back"><![CDATA[<-]]></string>
+    <string name="forward"><![CDATA[->]]></string>
+
+</resources>
